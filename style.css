@@ -22,3 +22,6 @@ figure, nav {
   margin: auto;
   }
 
+div {
+  display: block;
+}
