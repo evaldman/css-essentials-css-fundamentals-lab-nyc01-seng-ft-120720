@@ -17,6 +17,5 @@ figure, nav {
 }
 
 figure>p {
-  max-width: 800px;
   text-align: center;
 }
