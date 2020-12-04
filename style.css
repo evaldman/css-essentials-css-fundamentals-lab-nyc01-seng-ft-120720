@@ -13,5 +13,5 @@ figure, nav {
 }
 
 h1 + a {
-  background-color: orange;
+  background: orange;
 }
