@@ -24,4 +24,5 @@ figure, nav {
 
 div {
   display: block;
+  float: left;
 }
