@@ -16,6 +16,6 @@ figure, nav {
   background: orange;
 }
 
-figure > p {
+figure + p {
   text-align: center;
 }
