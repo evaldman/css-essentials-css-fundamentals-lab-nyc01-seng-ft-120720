@@ -16,7 +16,7 @@ figure, nav {
   background: orange;
 }
 
-figure > p {
+figure>p {
   max-width: 800px;
   text-align: center;
 }
