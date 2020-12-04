@@ -12,6 +12,6 @@ figure, nav {
   text-align: center;
 }
 
-h1 + a {
+nav {
   background: orange;
 }
