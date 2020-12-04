@@ -19,5 +19,5 @@ figure, nav {
 figure + p {
   text-align: center;
   max-width: 800px;
-  margin: 20;
+  margin: 200;
 }
