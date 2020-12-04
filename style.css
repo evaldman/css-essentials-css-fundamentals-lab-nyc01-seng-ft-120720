@@ -16,4 +16,7 @@ a {
   background: orange;
 }
 
-p#featuredproperty
+p#featured-property{
+  text-align: center;
+  width: 800px;
+}
