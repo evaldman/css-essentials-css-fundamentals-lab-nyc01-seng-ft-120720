@@ -16,7 +16,7 @@ figure, nav {
   background: orange;
 }
 
-p#featured-property {
+p #featured-property {
   max-width: 800px;
   text-align: center;
 }
